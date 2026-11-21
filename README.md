@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi 👋 I’m Abhijeet Prajapati, a Software Engineer and MCA student with a strong foundation in Java and Full Stack Development.<br>I focus on building scalable, efficient, and user-friendly applications. 🚀<br><br>About Me<br><br>🔭 Working on: Enterprise-level Java & Web Applications<br><br>👯 Looking to collaborate on: Professional software projects<br><br>🤝 Need help with: System Design & Optimization<br><br>🌱 Learning: Modern Full Stack Technologies<br><br>💬 Ask me about: Java, Backend, APIs<br><br>⚡ Fun fact: I enjoy solving complex problems
+
+Hi 👋 I'm **Abhijeet Prajapati**, a **Java Full Stack Developer and Technical Trainer** with hands-on experience in building scalable web applications using **Spring Boot, React.js, Hibernate, REST APIs, and MySQL**.
+
+I have a strong understanding of backend development, database design, software testing, and modern development tools. I'm passionate about solving real-world problems through clean, efficient, and maintainable code, while mentoring and guiding aspiring developers. 🚀
 
 
 ## 🌐 Socials:
